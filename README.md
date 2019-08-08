@@ -1,2 +1,2 @@
-# Dataquest-Data-Scientist-with-Python
+# Data Science Projects
 
